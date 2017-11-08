@@ -1,0 +1,40 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALLOWED_HOSTS	../blogclone/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	../blogclone/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:87
+BASE_DIR	../blogclone/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+BlogConfig	../blog/apps.py	/^class BlogConfig(AppConfig):$/;"	kind:class	line:7
+DATABASES	../blogclone/settings.py	/^DATABASES = {$/;"	kind:variable	line:76
+DEBUG	../blogclone/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+INSTALLED_APPS	../blogclone/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	../blogclone/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:106
+MIDDLEWARE	../blogclone/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:42
+ROOT_URLCONF	../blogclone/settings.py	/^ROOT_URLCONF = 'blogclone.urls'$/;"	kind:variable	line:52
+SECRET_KEY	../blogclone/settings.py	/^SECRET_KEY = '7ukg5i7m1t$!#e#jlg4o)w-z1ys2!0@d6xz_v32tl_rphwo7u$'$/;"	kind:variable	line:23
+STATIC_URL	../blogclone/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:120
+TEMPLATES	../blogclone/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:54
+TIME_ZONE	../blogclone/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:108
+USE_I18N	../blogclone/settings.py	/^USE_I18N = True$/;"	kind:variable	line:110
+USE_L10N	../blogclone/settings.py	/^USE_L10N = True$/;"	kind:variable	line:112
+USE_TZ	../blogclone/settings.py	/^USE_TZ = True$/;"	kind:variable	line:114
+WSGI_APPLICATION	../blogclone/settings.py	/^WSGI_APPLICATION = 'blogclone.wsgi.application'$/;"	kind:variable	line:70
+__init__.py	../blog/__init__.py	1;"	kind:file	line:1
+__init__.py	../blog/migrations/__init__.py	1;"	kind:file	line:1
+__init__.py	../blogclone/__init__.py	1;"	kind:file	line:1
+admin.py	../blog/admin.py	1;"	kind:file	line:1
+application	../blogclone/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+apps.py	../blog/apps.py	1;"	kind:file	line:1
+manage.py	../manage.py	1;"	kind:file	line:1
+models.py	../blog/models.py	1;"	kind:file	line:1
+name	../blog/apps.py	/^    name = 'blog'$/;"	kind:variable	line:8
+settings.py	../blogclone/settings.py	1;"	kind:file	line:1
+tests.py	../blog/tests.py	1;"	kind:file	line:1
+urlpatterns	../blogclone/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urls.py	../blog/urls.py	1;"	kind:file	line:1
+urls.py	../blogclone/urls.py	1;"	kind:file	line:1
+views.py	../blog/views.py	1;"	kind:file	line:1
+wsgi.py	../blogclone/wsgi.py	1;"	kind:file	line:1
